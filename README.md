@@ -36,7 +36,7 @@ Easy-to-use interface for tracking and managing goals.
 
 # Frontend: React.js
 
-# AI Models: TensorFlow, PyTorch
+# ML Models: TensorFlow, PyTorch
 
 # Hosting: AWS
 
